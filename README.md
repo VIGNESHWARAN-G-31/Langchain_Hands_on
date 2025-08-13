@@ -46,10 +46,13 @@ During this hands-on learning journey, we explored and implemented multiple tool
 - **pandas** – Data handling and manipulation.
 - **python-dotenv** – Environment variable management.
 
+---
+
 ### 🗄 Databases & Vector Stores
 - **Chroma** – Local vector store for embeddings.
 - **FAISS** – Facebook AI Similarity Search for large-scale vector retrieval.
 - **Both Local & API-based Embeddings** – Running embeddings locally (e.g., `nomic-embed-text`) and via APIs (e.g.Gemini).
+---
 
 ### 🤖 LLM Models Used
 - **Google Gemini** (API-based) – For reasoning, search, and agent execution.
