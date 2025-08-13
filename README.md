@@ -8,7 +8,7 @@ It contains **step-by-step experiments**, **code examples**, and **mini-projects
 
 ## 📌 Why This Repo Exists
 
-LLMs like **OpenAI GPT** and **Google Gemini** are powerful but often limited to answering single prompts.  
+LLMs like  **Google Gemini** are powerful but often limited to answering single prompts.  
 LangChain bridges this gap by enabling:
 - Multi-step reasoning
 - Tool integration (search, APIs, databases, etc.)
