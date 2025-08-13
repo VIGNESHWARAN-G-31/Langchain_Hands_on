@@ -19,7 +19,7 @@ This repository is the result of **hands-on learning** — breaking down concept
 
 ---
 
-## 📚 What I Have Learnend :
+## 📚 What I Have Learned :
 - **LangChain Basics** – Understanding core concepts: Tools, Agents, and Chains.
 - **Tool Creation** – How to connect your AI to external resources.
 - **Agent Design** – Making AI decide *which tool to use* and *when*.
