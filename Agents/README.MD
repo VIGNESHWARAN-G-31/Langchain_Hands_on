@@ -28,7 +28,7 @@ Think of them as **smart managers** who coordinate between tools, data sources, 
 
 ---
 
-### 2. `retriever_tool_agent.ipynb`
+### 2. `retriever_tool_agent`
 - Focuses on **retriever-based agents**.
 - Uses:
   - `create_retriever_tool()` from `langchain.tools.retriever`
@@ -37,7 +37,7 @@ Think of them as **smart managers** who coordinate between tools, data sources, 
 
 ---
 
-### 3. `gemini_agent.ipynb`
+### 3. `gemini_agent`
 - Uses **Google Gemini** as the LLM for reasoning.
 - Shows integration with:
   - `langchain-google-genai`
@@ -46,14 +46,14 @@ Think of them as **smart managers** who coordinate between tools, data sources, 
 
 ---
 
-### 4. `langchain_hub_agent.ipynb`
+### 4. `langchain_hub_agent`
 - Pulls prompt templates from **LangChain Hub**.
 - Example: Using a predefined “react” (Reasoning + Acting) prompt.
 - Agent executes multi-step reasoning with hub-provided prompts.
 
 ---
 
-### 5. `local_llm_agent.ipynb`
+### 5. `local_llm_agent`
 - Uses **Gemma 3** local LLM for offline agent execution.
 - Integrated with:
   - Local embeddings (`nomic-embed-text`)
