@@ -26,4 +26,36 @@ This repository is the result of **hands-on learning** — breaking down concept
 - **AgentExecutor** – Orchestrating multi-step AI workflows.
 - **LLM Integration** – Connecting with models like **Google Gemini**.
 - **Mini Projects** – Wikipedia search bot, custom retrievers, and more.
+---
+
+## 🛠 Libraries & Technologies Used
+
+During this hands-on learning journey, we explored and implemented multiple tools, libraries, and technologies that power modern AI applications.
+
+### 📦 Python Libraries
+- **LangChain** – Core framework for building LLM-powered applications.
+- **langchain-community** – Community-maintained integrations.
+- **langchain-google-genai** – Integration with Google Gemini models.
+- **langchain-openai** – Integration with OpenAI GPT models.
+- **langchainhub** – Accessing shared prompts and workflows from LangChain Hub.
+- **wikipedia** – API wrapper for Wikipedia search.
+- **chromadb** – Local vector database for storing and retrieving embeddings.
+- **faiss-cpu** – High-performance similarity search library.
+- **nomic-embed-text** – Embedding model for converting text into vector form.
+- **google-generativeai** – Direct Gemini API client.
+- **pandas** – Data handling and manipulation.
+- **python-dotenv** – Environment variable management.
+
+### 🗄 Databases & Vector Stores
+- **Chroma** – Local vector store for embeddings.
+- **FAISS** – Facebook AI Similarity Search for large-scale vector retrieval.
+- **Both Local & API-based Embeddings** – Running embeddings locally (e.g., `nomic-embed-text`) and via APIs (e.g.Gemini).
+
+### 🤖 LLM Models Used
+- **Google Gemini** (API-based) – For reasoning, search, and agent execution.
+- **Gemma 3** (Local) – Low-level LLM running on system hardware.
+- **Nomic Embeddings** – Local embedding generation without internet.
+
+
+---
 
